@@ -5,6 +5,6 @@ import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.List;
 
-public interface DestinationRepository  extends MongoRepository<Destination, String> {
+public interface DestinationRepository {
     List<Destination> findByLocationAndCategoriesIn(String location, List<String> categories);
 }
