@@ -7,4 +7,5 @@ import java.util.List;
 
 public interface DestinationRepository {
     List<Destination> findByLocationAndCategoriesIn(String location, List<String> categories);
+
 }
