@@ -1,9 +1,8 @@
 package com.clambis.wanderella.service;
-
-import com.clambis.wanderella.model.Destination;
+import com.clambis.wanderella.model.TouristDestination;
 
 import java.util.List;
 
 public interface DestinationService {
-    List<Destination> findDestinationsByLocationAndPreferences(String location, List<String> preferences);
+    List<TouristDestination> searchDestinations(String location, String preferences);
 }
