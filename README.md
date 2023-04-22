@@ -23,4 +23,4 @@ Licencia
 Este proyecto está bajo la Licencia MIT. Consulte el archivo LICENSE para más detalles.
 
 Contacto
-Si tiene alguna pregunta o sugerencia sobre este proyecto, no dude en ponerse en contacto conmigo a través de mi correo electrónico [email protected]
+Si tiene alguna pregunta o sugerencia sobre este proyecto, no dude en ponerse en contacto conmigo a través de mi correo electrónico
